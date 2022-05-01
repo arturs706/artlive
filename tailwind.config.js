@@ -4,7 +4,6 @@ module.exports = {
     "./components/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    
     extend: {
       colors: {
         'bg_custom_1': '#1F2021',

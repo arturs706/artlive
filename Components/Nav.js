@@ -27,7 +27,7 @@ const Nav = () => {
 
   return (
     <div className='w-full fixed top-0 left-0 ease-in duration-400 target_class h-16'>
-      <div className='bg-gradient-to-r from-bg_custom_3 to-bg_custom_2 backdrop-filter backdrop-blur-lg bg-opacity-10 w-full h-20 flex justify-between items-center'>
+      <div className='bg-gradient-to-r from-bg_custom_3 to-bg_custom_2 ... backdrop-filter backdrop-blur-lg bg-opacity-10 w-full h-20 flex justify-between items-center'>
         <div className='pl-20 flex w-144 justify-between h-20 items-center'>
           <h2 className='text-2xl'>ART.LIVE</h2>
           <p className='text-sm'>NEWS</p>
