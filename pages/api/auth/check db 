@@ -1,0 +1,15 @@
+--SELECT A COLUMN FROM ACCOUNTS
+-- SELECT id_token FROM accounts;
+-- DELETE FROM accounts WHERE id_token = NULL
+
+
+
+ALTER TABLE accounts ALTER COLUMN id_token VARCHAR(1200) NULL;
+-- ALTER TABLE accounts DROP COLUMN "id_token"
+-- ALTER TABLE accounts drop column "id_token";
+-- ALTER TABLE accounts ADD "id_token" varchar(1200) DEFAULT NULL;
+-- DELETE FROM sessions;
+-- DELETE FROM accounts;
+-- DELETE FROM users;
+-- DELETE FROM verification_tokens;
+
